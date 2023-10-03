@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 linea de esteban trejo con conflicto jajaja
+=======
+Hola a todos, pruba de error
+>>>>>>> origin/master
